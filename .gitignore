@@ -1,0 +1,10 @@
+# Lokale Python-Umgebung und Cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Private Notizen und lokale Einstellungen
+data/
+.env
+.env.*
+!.env.example
